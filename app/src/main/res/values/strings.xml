@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">G OUT MQTT</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="title_activity__config">Configuração Servidor MQTT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="Tags_array">
+        <item>CAL_01_PT</item>
+        <item>CAL_01_FT</item>
+        <item>CAL_01_TT</item>
+        <item>CAL_02_PT</item>
+        <item>CAL_02_FT</item>
+        <item>CAL_02_TT</item>
+        <item>CAL_03_PT</item>
+        <item>CAL_03_FT</item>
+        <item>CAL_03_TT</item>
+        <item>CAL_04_PT</item>
+        <item>CAL_04_FT</item>
+        <item>CAL_04_TT</item>
+        <item>PT_MASTER</item>
+        <item>POT_G5</item>
+        <item>POT_G6</item>
+        <item>EXPORTACAO</item>
+        <item>MOENDA_NIVEL_1T</item>
+        <item>MOENDA_VZ_EMBEBICAO</item>
+        <item>MOENDA_VZ_CALDO_MISTO</item>
+        <item>MOENDA_RPM_1T</item>
+        <item>MOENDA_RPM_PICADOR</item>
+        <item>MOENDA_RPM_DESFIBRADOR</item>
+        <item>FABRICACAO_PH_CAELADO</item>
+        <item>FABRICACAO_PH_SULFITADO</item>
+        <item>FABRICACAO_PH_LICOR_CLARIFICADO</item>
+        <item>FABRICACAO_NIVEL_EVAPORADOR_01</item>
+        <item>FABRICACAO_NIVEL_EVAPORADOR_1A</item>
+        <item>FABRICACAO_NIVEL_EVAPORADOR_1B</item>
+        <item>FABRICACAO_VZ_CALDO_MISTO</item>
+        <item>FABRICACAO_NÍVEL_CALDO_MISTO</item>
+        <item>FABRICACAO_NIVEL_TQ_XAROPE</item>
+        <item>FABRICACAO_NIVEL_MEXEDEIRA</item>
+        <item>PT_LINHA_TORRE_EVAPORACAO</item>
+        <item>TT_LINHA_TORRE_EVAPORACAO</item>
+        <item>RED_42KG</item>
+        <item>RED_21KG</item>
+        <item>RED_1_5KG</item>
+        <item>PT_AR_COMPRIMIDO</item>
+        <item>RELACAO_MESA_45</item>
+        <item>RELACAO_MESA_35</item>
+        <item>ABERTURA_VAL_RED_42KG</item>
+        <item>ABERTURA_VAL_RED_21KG</item>
+        <item>LT_TQ_CALDO_DECANTADO</item>
+        <item>VAZAOGERAL</item>
+    </string-array>
+    <string-array name="Tags_array2">
+        <item>CAL 01 PT</item>
+        <item>CAL 01 FT</item>
+        <item>CAL 01 TT</item>
+        <item>CAL 02 PT</item>
+        <item>CAL 02 FT</item>
+        <item>CAL 02 TT</item>
+        <item>CAL 03 PT</item>
+        <item>CAL 03 FT</item>
+        <item>CAL 03 TT</item>
+        <item>CAL 04 PT</item>
+        <item>CAL 04 FT</item>
+        <item>CAL 04 TT</item>
+        <item>PT MASTER</item>
+        <item>POTENC G5</item>
+        <item>POTENC G6</item>
+        <item>EXPORTACÃO</item>
+        <item>NIVEL 1°T</item>
+        <item>VZ EMBEBICAO</item>
+        <item>VZ CALDO_MISTO</item>
+        <item>RPM 1°T</item>
+        <item>RPM PICADOR</item>
+        <item>RPM DESFIBR</item>
+        <item>PH CAELADO</item>
+        <item>PH SULFITADO</item>
+        <item>PH CLARIFICA</item>
+        <item>NIVEL EVAPOR 01</item>
+        <item>NIVEL EVAPOR 1A</item>
+        <item>NIVEL EVAPOR 1B</item>
+        <item>VZ CALDO MISTO FAB</item>
+        <item>NÍVEL CALDO MISTO</item>
+        <item>NIVEL TQ XAROPE</item>
+        <item>NIVEL MEXEDEIRA</item>
+        <item>PT LINHA TORRE</item>
+        <item>TT LINHA_TORRE</item>
+        <item>RED 42KG</item>
+        <item>RED 21KG</item>
+        <item>RED 1,5KG</item>
+        <item>AR COMPRI</item>
+        <item>RELACAO M 45</item>
+        <item>RELACAO_M_35</item>
+        <item>ABER VAL RED 42KG</item>
+        <item>ABER VAL RED 21KG</item>
+        <item>LT TQ CALDO DECANTADO</item>
+        <item>VAZAO GERAL</item>
+    </string-array>
+
+
+</resources>
